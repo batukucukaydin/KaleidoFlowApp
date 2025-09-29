@@ -16,14 +16,17 @@ This mini project was created for portfolio/CV purposes to demonstrate skills in
 ---
 
 ## 📸 Screenshots
-_Add your screenshots or GIF demo here!_  
-For example:
+## Project Interface Screenshots:
 
 <p align="center">
-  <img src="screenshots/home.png" width="250" />
-  <img src="screenshots/detail.png" width="250" />
+  <img src="screenshots/ss1.png" alt="image 1" width="220"/>
+  <img src="screenshots/ss2.png" alt="image 2" width="220"/>
 </p>
 
+## 🎞 Demo (GIF)
+<p align="center">
+  <img src="screenshots/ss.gif" alt="demo animation" width="300"/>
+</p>
 ---
 
 ## 🎯 Purpose
